@@ -1,0 +1,13 @@
+(C11
+  ((S1)
+  (direccion NorteSur)
+  (carriles V1 V2)
+  (luces (rojo 35) (verde 30) (amarillo 10))
+  (sentidos (D 0) (I 0) (R 1))
+  ((V1 45 50) (V2 55 60 65)))
+ ((S2)
+  (direccion SurNorte)
+  (carriles V1 V2 V3 V4)
+  (luces (rojo 25) (verde 20) (amarillo 5))
+  (sentidos (D 0) (I 0) (R 1))
+  ((V1 70 75) (V2 80 85 90) (V3 95 100) (V4 105 110 115))))
